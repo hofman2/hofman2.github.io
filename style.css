@@ -1,0 +1,33 @@
+
+body {
+  background-color: lightyellow;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+h1 {font-family:Arial, Helvetica,sans-serif;
+  font-size: 40px;
+  text-align: center;
+  padding: 1px
+}
+
+h2 {font-family: Garamond, Georgia, serif;
+    text-align: center;
+}
+
+
+nav {font-family: Garamond, Georgia, serif;
+  text-align: center;
+}
+
+p {font-family: Garamond, Georgia, serif;
+  text-align: center;
+}
+
+
+
+footer {font-family: Garamond, Georgia, serif;
+    text-align: center;
+  padding: 40px}
